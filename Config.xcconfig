@@ -1,0 +1,14 @@
+//
+//  Config.xcconfig
+//  back me a playlist.
+//
+//  Created by Mpilonhle on 2024/06/14.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//SPOTIFY CLIEND ID AND CLIENT SECRET
+clientId = "109340d596bd4786b0eabc193294fd31"
+clientSecret = "b2a8fa845b314bacb68b30fdeceae4ca"
+
